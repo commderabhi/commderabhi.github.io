@@ -16,6 +16,7 @@ A fast, single-page personal portfolio for **Abhishek Sharma**, an MBA (Marketin
 
 ## Features
 
+- **Dynamic visuals.** Animated gradient background with a subtle grid, a skills marquee, scroll-triggered reveals, a scroll-progress bar, an active-section navigation highlight, and cards that glow and tilt towards the cursor. All motion switches off automatically for visitors who prefer reduced motion, and the effects that need a mouse are skipped on touch devices.
 - **One-click resume download.** The round icon at the top right downloads `Abhishek_Sharma_Resume.pdf` straight away. The PDF is stored inside `index.html`, so it works on any host and offline, with no server or extra file needed.
 - **Print-ready.** Printing the page (`Ctrl + P` or `Cmd + P`) produces a clean, light, resume-style layout without the navigation or decorative elements.
 - **Responsive.** Designed for phones, tablets and desktops, with no horizontal scrolling.
